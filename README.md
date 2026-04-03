@@ -107,3 +107,16 @@ Aspiring Data Engineer / Data Scientist
 
 ---
 
+## 📊 Visualizations
+
+### Risk Distribution
+![Risk Distribution](risk_distribution.png)
+
+### Sentiment vs Risk
+![Sentiment vs Risk](sentiment_vs_risk.png)
+
+### Response Time vs Risk
+![Response Time vs Risk](response_vs_risk.png)
+
+### Predictions vs Real
+![Prediction vs Real](prediction_vs_real.png)

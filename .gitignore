@@ -1,0 +1,6 @@
+pyspark_env/
+.cache/
+.local/
+hadoop/
+hadoop_data/
+*.tar.gz
